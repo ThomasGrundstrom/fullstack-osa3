@@ -1,0 +1,7 @@
+POST https://fullstack-osa3-deploy-version.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "",
+    "number": "t"
+}
